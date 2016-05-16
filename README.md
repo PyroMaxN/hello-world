@@ -17,3 +17,5 @@ proba bla bla musze
 dobra to najpierw commit potem push
 
 Jak to?
+
+pora na przygode
