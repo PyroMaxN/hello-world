@@ -7,6 +7,8 @@ Done.
 
 test 2, still firefox
 
+tu wstawiam ekstra tekst !!!//Noooo
+
 bla
 
 ciekawe czy teraz zadziala
