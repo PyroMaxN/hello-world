@@ -10,3 +10,5 @@ test 2, still firefox
 bla
 
 ciekawe czy teraz zadziala
+
+kolejne podejscie
