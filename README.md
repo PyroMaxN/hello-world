@@ -12,3 +12,5 @@ bla
 ciekawe czy teraz zadziala
 
 kolejne podejscie
+
+proba bla bla musze
